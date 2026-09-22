@@ -1,0 +1,11 @@
+=== Informasi Mobil ===
+Nama Kendaraan: Toyota Avanza
+Kecepatan: 180 km/jam
+Jumlah Roda: 4
+Jumlah Pintu: 4
+
+=== Informasi Sepeda Motor ===
+Nama Kendaraan: Yamaha R15
+Kecepatan: 150 km/jam
+Jumlah Roda: 2
+Jenis Mesin: 4-tak

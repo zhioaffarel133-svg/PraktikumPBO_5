@@ -1,0 +1,9 @@
+=== Informasi Kucing ===
+Nama Hewan: Milo
+Jenis Hewan: Kucing Persia
+Suara: Meong
+
+=== Informasi Anjing ===
+Nama Hewan: Buddy
+Jenis Hewan: Anjing Golden Retriever
+Suara: Guk guk

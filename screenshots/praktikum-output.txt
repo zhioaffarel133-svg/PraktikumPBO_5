@@ -1,0 +1,9 @@
+=== Informasi Mobil ===
+Nama Kendaraan: Toyota
+Kecepatan: 180 km/jam
+Jumlah Pintu: 4
+
+=== Informasi Sepeda Motor ===
+Nama Kendaraan: Yamaha
+Kecepatan: 120 km/jam
+Jenis Mesin: 2-tak
