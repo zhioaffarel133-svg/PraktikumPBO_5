@@ -1,15 +1,20 @@
 Repository GitHub:
-origin	https://github.com/zhioaffarel133-svg/PraktikumPBO_5.git (fetch)
-origin	https://github.com/zhioaffarel133-svg/PraktikumPBO_5.git (push)
+https://github.com/zhioaffarel133-svg/PraktikumPBO_5.git
 
-Branch/status:
+Branch:
 main
-?? screenshots/Github-Push.txt
 
-Commit:
+Status lokal:
+ M screenshots/Github-Push.txt
+
+Commit lokal terbaru:
+77c8fcc Tambahkan bukti push GitHub
 fe06f3e Tugas Modul 5 Pewarisan
 
-Remote files:
+Remote HEAD main:
+77c8fcc46eea
+
+Remote files main:
 file .gitignore
 file build.xml
 file manifest.mf
